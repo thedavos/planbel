@@ -23,7 +23,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-prettier": "^3.0.0",
     "jsdoc": "^3.5.5",
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.12",
     "prettier": "^1.15.3"
   }
 }
